@@ -1,1 +1,1 @@
-# array-deque
+# palindrome
